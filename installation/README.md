@@ -8,9 +8,9 @@ The robot simulator V-REP, with integrated development environment, is based on 
 * V-REP is cross-platform, and allows the creation of portable, scalable and easy maintainable content: a single portable file can contain a fully functional model (or scene), including control code.
 
 # Powerfull V-REP APIs:
-            * Regular API: C & Lua
-            * Remote API: C, Java, Python, Matlab, Octave & Lua
-            * ROS &amp; BlueZero interface: publishers, subscribers &amp; service calls. Support all standard messages, extendable
+            Regular API: C & Lua
+            Remote API: C, Java, Python, Matlab, Octave & Lua
+            ROS &amp; BlueZero interface: publishers, subscribers &amp; service calls. Support all standard messages, extendable
 
 ## Windows setup
 We suggest windows installation for Junior and if you are currently downloaded this repository you can find V-REP_PRO_EDU_V3_6_2_Setup.exe in this directory.
